@@ -8,7 +8,7 @@ Aerospace MS graduate from the University of Illinois Urbana-Champaign. Speciali
 ## Personal Projects
 
 ## Thesis
-[Computational Analysis of Plasma Actuation For Control of Shock-Laden Flows in Scramjet Isolators](https://github.com/samkilduff/Portfolio/blob/main/Thesis/thesis.pdf)
+- [Computational Analysis of Plasma Actuation For Control of Shock-Laden Flows in Scramjet Isolators](https://github.com/samkilduff/Portfolio/blob/main/Thesis/thesis.pdf)
 
 ## Contact
 [Resume PDF](https://github.com/samkilduff/Portfolio/blob/main/Miscellaneous/Kilduff_Sam_Resume.pdf)
