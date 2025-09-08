@@ -1,0 +1,2 @@
+# 1D Finite Volume Euler Solver
+The 1D Euler equations are solved for a shock tube using Godunov's method for finite volumes. An exact Riemann solver and Roe's approximate Riemann solver were implemented to compute the convective fluxes.
