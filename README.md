@@ -10,3 +10,4 @@ Aerospace MS graduate from the University of Illinois Urbana-Champaign. Speciali
 ## Thesis
 
 ## Contact
+[Resume PDF](https://github.com/samkilduff/Portfolio/blob/main/Miscellaneous/Kilduff_Sam_Resume.pdf)
