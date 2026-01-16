@@ -10,8 +10,6 @@ Aerospace MS graduate from the University of Illinois Urbana-Champaign. Speciali
 ## MS Thesis
 Computational Analysis of Plasma Actuation For Control of Shock-Laden Flows in Scramjet Isolators
 
-Advisor: Dr. Daniel Bodony
-
 ## Contact
 [Resume PDF](https://github.com/samkilduff/Portfolio/blob/main/Miscellaneous/Kilduff_Sam_Resume.pdf)
 
